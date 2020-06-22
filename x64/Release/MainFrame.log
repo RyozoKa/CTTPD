@@ -1,0 +1,14 @@
+﻿icl: : warning #10121: overriding '/QxATOM_SSE4.2' with '/archsse4.2'
+icl: : message #10134: '/Qcheck-pointers-undimensioned' has no effect without '/Qcheck-pointers' specified
+  Client.cpp
+  Config.cpp
+  CTMLCompress.cpp
+  flat_hash_map.cpp
+  Generic.cpp
+  Hash.cpp
+  ResourceManager.cpp
+  Timer.cpp
+icl: : warning #10121: overriding '/QxATOM_SSE4.2' with '/archsse4.2'
+icl: : message #10134: '/Qcheck-pointers-undimensioned' has no effect without '/Qcheck-pointers' specified
+  dllmain.cpp
+  MainFrame.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2017\Projects\CTTPD Native Web Server\x64\Release\MainFrame.lib

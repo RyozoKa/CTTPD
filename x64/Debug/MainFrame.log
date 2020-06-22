@@ -1,0 +1,11 @@
+﻿  Config.cpp
+  CTMLCompress.cpp
+  CTSocket.cpp
+  flat_hash_map.cpp
+  Generic.cpp
+  Hash.cpp
+  ResourceManager.cpp
+  ThreadManager.cpp
+  Timer.cpp
+  dllmain.cpp
+     Creating library C:\Users\Chris\Documents\Visual Studio 2017\Projects\CTTPD Native Web Server\x64\Debug\MainFrame.lib and object C:\Users\Chris\Documents\Visual Studio 2017\Projects\CTTPD Native Web Server\x64\Debug\MainFrame.exp

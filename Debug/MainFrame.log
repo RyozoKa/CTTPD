@@ -1,0 +1,35 @@
+﻿Build started 2017-12-06 15:17:18.
+     1>Project "c:\Users\Chris\Documents\Visual Studio 2010\Projects\CTTPD Native Web Server\MainFrame\MainFrame.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\MainFrame.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\MainFrame.unsuccessfulbuild".
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\Chris\AppData\Local\Temp\tmpd120bef4ddce4e59876f2df150d858dc.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Generic.obj" /W3 /errorReport:prompt  /TaGeneric.asm
+     1>Generic.asm(18): error A2006: undefined symbol : rax
+     1>Generic.asm(19): error A2006: undefined symbol : rax
+     1>Generic.asm(20): error A2006: undefined symbol : rdx
+     1>Generic.asm(23): error A2006: undefined symbol : rdx
+     1>Generic.asm(24): error A2006: undefined symbol : dqword
+     1>Generic.asm(26): error A2006: undefined symbol : dqword
+     1>Generic.asm(31): error A2006: undefined symbol : rax
+     1>Generic.asm(34): error A2006: undefined symbol : rax
+     1>Generic.asm(41): error A2006: undefined symbol : rax
+     1>Generic.asm(42): error A2006: undefined symbol : rax
+     1>Generic.asm(43): error A2006: undefined symbol : rdx
+     1>Generic.asm(46): error A2006: undefined symbol : rdx
+     1>Generic.asm(47): error A2006: undefined symbol : dqword
+     1>Generic.asm(49): error A2006: undefined symbol : dqword
+     1>Generic.asm(55): error A2006: undefined symbol : rax
+     1>Generic.asm(59): error A2006: undefined symbol : rax
+     1>Generic.asm(60): error A2006: undefined symbol : rax
+     1>Generic.asm(61): error A2006: undefined symbol : rdx
+     1>Generic.asm(62): error A2006: undefined symbol : rax
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\BuildCustomizations\masm.targets(49,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Generic.obj" /W3 /errorReport:prompt  /TaGeneric.asm" exited with code 1.
+     1>Done Building Project "c:\Users\Chris\Documents\Visual Studio 2010\Projects\CTTPD Native Web Server\MainFrame\MainFrame.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.27

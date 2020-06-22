@@ -1,0 +1,58 @@
+﻿Build started 2/17/2018 1:12:06 AM.
+     1>Project "C:\Users\Chris\Documents\Visual Studio 2010\Projects\CTTPD Native Web Server\MainFrame\MainFrame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\MainFrame.unsuccessfulbuild".
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\Chris\AppData\Local\Temp\tmp4a7d9aed368e468b8e9223f1ee2f5b87.cmd"
+         ml.exe /c /nologo /Zi /Fo"Release\Generic.obj" /W3 /errorReport:prompt  /TaGeneric.asm
+     1>Generic.asm(16): error A2006: undefined symbol : rax
+     1>Generic.asm(17): error A2006: undefined symbol : rax
+     1>Generic.asm(18): error A2006: undefined symbol : rdx
+     1>Generic.asm(21): error A2006: undefined symbol : rdx
+     1>Generic.asm(22): error A2006: undefined symbol : rdx
+     1>Generic.asm(24): error A2006: undefined symbol : rdx
+     1>Generic.asm(29): error A2006: undefined symbol : rax
+     1>Generic.asm(33): error A2006: undefined symbol : rax
+     1>Generic.asm(40): error A2006: undefined symbol : rax
+     1>Generic.asm(41): error A2006: undefined symbol : rax
+     1>Generic.asm(42): error A2006: undefined symbol : rdx
+     1>Generic.asm(45): error A2006: undefined symbol : rdx
+     1>Generic.asm(46): error A2006: undefined symbol : rdx
+     1>Generic.asm(48): error A2006: undefined symbol : rdx
+     1>Generic.asm(54): error A2006: undefined symbol : rax
+     1>Generic.asm(58): error A2006: undefined symbol : rax
+     1>Generic.asm(59): error A2006: undefined symbol : rax
+     1>Generic.asm(60): error A2006: undefined symbol : rdx
+     1>Generic.asm(61): error A2006: undefined symbol : rax
+     1>Generic.asm(66): error A2006: undefined symbol : rax
+     1>Generic.asm(67): error A2006: undefined symbol : rdx
+     1>Generic.asm(71): error A2006: undefined symbol : rax
+     1>Generic.asm(72): error A2006: undefined symbol : rdx
+     1>Generic.asm(75): error A2006: undefined symbol : rax
+     1>Generic.asm(81): error A2006: undefined symbol : rbx
+     1>Generic.asm(82): error A2006: undefined symbol : rsi
+     1>Generic.asm(83): error A2006: undefined symbol : rdi
+     1>Generic.asm(84): error A2006: undefined symbol : rdx
+     1>Generic.asm(86): error A2006: undefined symbol : rax
+     1>Generic.asm(90): error A2006: undefined symbol : rax
+     1>Generic.asm(91): error A2006: undefined symbol : rax
+     1>Generic.asm(96): error A2006: undefined symbol : rax
+     1>Generic.asm(97): error A2006: undefined symbol : rdi
+     1>Generic.asm(98): error A2006: undefined symbol : rsi
+     1>Generic.asm(99): error A2006: undefined symbol : rdi
+     1>Generic.asm(100): error A2006: undefined symbol : rsi
+     1>Generic.asm(104): error A2006: undefined symbol : rsi
+     1>Generic.asm(105): error A2006: undefined symbol : rsi
+     1>Generic.asm(108): error A2006: undefined symbol : rsi
+     1>Generic.asm(116): error A2006: undefined symbol : rax
+     1>Generic.asm(120): error A2006: undefined symbol : rax
+     1>Generic.asm(123): error A2006: undefined symbol : rax
+     1>Generic.asm(124): error A2006: undefined symbol : rdi
+     1>Generic.asm(125): error A2006: undefined symbol : rsi
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\BuildCustomizations\masm.targets(49,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Release\Generic.obj" /W3 /errorReport:prompt  /TaGeneric.asm" exited with code 1.
+     1>Done Building Project "C:\Users\Chris\Documents\Visual Studio 2010\Projects\CTTPD Native Web Server\MainFrame\MainFrame.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.14

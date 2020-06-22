@@ -1,0 +1,6 @@
+LIBRARY
+
+EXPORTS appstreq
+EXPORTS appstrcmp
+EXPORTS appstrlen
+EXPORTS appstrstr
